@@ -57,6 +57,7 @@
     "random-access-file": "^0.3.1",
     "range-parser": "^1.0.2",
     "re-emitter": "^1.0.0",
+    "request": "^2.53",
     "rimraf": "^2.2.5",
     "run-parallel": "^1.0.0",
     "simple-get": "^1.0.0",
